@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14712" started-at="2021-02-24T10:39:45Z" finished-at="2021-02-24T10:40:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14712" started-at="2021-02-24T10:39:45Z" finished-at="2021-02-24T10:40:00Z">
+      <class name="testng1.exp3">
+        <test-method status="PASS" signature="image()[pri:0, instance:testng1.exp3@1e67a849]" name="image" duration-ms="14689" started-at="2021-02-24T16:09:45Z" finished-at="2021-02-24T16:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- image -->
+      </class> <!-- testng1.exp3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
