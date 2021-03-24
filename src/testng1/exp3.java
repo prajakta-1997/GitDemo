@@ -15,6 +15,11 @@ public class exp3 {
 	{
 		System.out.println("before executing any methods in the class");
 	}
+	@Test
+	public void befoclas1()
+	{
+		System.out.println("new code to check pull.");
+	}
 	@Parameters({ "URL","APIKey/usrname" })
 		@Test
 		public void WebloginCarLoan(String urlname,String key)
