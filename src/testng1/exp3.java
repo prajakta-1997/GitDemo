@@ -25,7 +25,18 @@ public class exp3 {
 			System.out.println(key);
 			
 		}
-		@BeforeMethod
+		@Test
+		public void WebloginCarLoan1(String urlname,String key)
+		{
+			//selenium
+			System.out.println("weblogincar");
+			System.out.println(urlname);
+			System.out.println(key);
+			System.out.println("weblogincar1");
+			System.out.println(urlname);
+			System.out.println(key);
+		}
+	
 		public void beforeevery()
 		{
 			System.out.println(" I will execute before every test method in day 3 class");
